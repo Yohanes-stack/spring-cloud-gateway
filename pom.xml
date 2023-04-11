@@ -14,7 +14,6 @@
 	<name>Spring Cloud Gateway</name>
 	<description>Spring Cloud Gateway</description>
 
-
 	<parent>
 		<groupId>org.springframework.cloud</groupId>
 		<artifactId>spring-cloud-build</artifactId>
