@@ -24,6 +24,7 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath/>
 	</parent>
+
 	<scm>
 		<url>https://github.com/spring-cloud/spring-cloud-gateway</url>
 		<connection>
